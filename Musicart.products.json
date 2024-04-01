@@ -1,0 +1,606 @@
+[{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb0f"
+  },
+  "name": "Sony WH-1000XM4",
+  "brand": "Sony",
+  "type": "Over-Ear",
+  "description": [
+    "Block out distractions and immerse yourself in your music with active noise cancellation.",
+    "Enjoy seamless Bluetooth connectivity for wireless listening.",
+    "Experience up to 25 hours of battery life on a single charge.",
+    "Stay connected with the built-in microphone for calls.",
+    "Benefit from a lightweight and comfortable design for extended wear."
+  ],
+  "price": 1500,
+  "color": "Black",
+  "features": [
+    "Active noise cancellation (ANC)",
+    "Bluetooth connectivity",
+    "Up to 25 hours battery life",
+    "Built-in microphone for calls",
+    "Lightweight and comfortable design"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/51DkbWZIg+L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/310Mx5xN5JL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/51I2DjHXyZL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/511hottQPnL._SS40_.jpg"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb10"
+  },
+  "name": "BoAt Rockerz 261",
+  "brand": "Boat",
+  "type": "In-Ear",
+  "description": [
+    "Secure-fit earbuds designed for active lifestyles.",
+    "Bluetooth connectivity for seamless pairing with your devices.",
+    "Sweatproof and water-resistant, ideal for intense workouts.",
+    "Secure ear hooks ensure a comfortable fit during any activity.",
+    "Long battery life provides extended listening sessions.",
+    "Built-in microphone allows you to take calls on the go."
+  ],
+  "price": 699,
+  "color": "Black",
+  "features": [
+    "Bluetooth connectivity",
+    "Sweatproof and water-resistant",
+    "Secure ear hooks for a comfortable fit",
+    "Long battery life for workouts",
+    "Built-in microphone for calls"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61dHbPEFAWL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/415nt5Ht12L._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/41kh96cmOvL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/410zPMQRugL._SS40_.jpg"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb11"
+  },
+  "name": "ZEBRONICS Zeb-Sound Bomb N1",
+  "brand": "Zebronics",
+  "type": "In-Ear",
+  "description": [
+    "Compact and convenient earbuds with seamless wireless connectivity.",
+    "Designed for active lifestyles with sweatproof and water-resistant features.",
+    "Advanced touch controls for managing music playback and calls effortlessly.",
+    "Automatic pairing for hassle-free setup with your devices.",
+    "Long battery life with the charging case, ensuring uninterrupted listening sessions."
+  ],
+  "price": 299,
+  "color": "White",
+  "features": [
+    "Bluetooth connectivity",
+    "Touch controls for music and calls",
+    "Automatic pairing",
+    "Long battery life with charging case"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/5143d5F4iRL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/91wBiDqfZLL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/91t0bbiZJ-L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/91dsnOmlfIL._SX679_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb12"
+  },
+  "name": "Monoprice BT-300ANC",
+  "brand": "Marshall",
+  "type": "Over-Ear",
+  "description": [
+    "Stylish headphones with a vintage aesthetic and premium sound quality.",
+    "Features high-quality audio drivers for immersive sound experience.",
+    "Equipped with leather ear cups for superior comfort during extended use.",
+    "Comes with a detachable cable featuring gold-plated connectors for durability.",
+    "Perfect choice for audiophiles seeking a blend of style and performance."
+  ],
+  "price": 20000,
+  "color": "Black",
+  "features": [
+    "High-quality audio drivers",
+    "Leather ear cups for comfort",
+    "Detachable cable with gold-plated connectors"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/517nkuuzMYL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/51gmRXBbYYL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/51Ep5z0WjKL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/51A+hEd7RHL._SX522_.jpg"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb13"
+  },
+  "name": "pTron Studio Pixel",
+  "brand": "Ptron",
+  "type": "On-Ear",
+  "description": [
+    "Lightweight and comfortable design suitable for extended wear.",
+    "Bluetooth connectivity or wired option for versatile use.",
+    "Adjustable headband ensures a perfect fit for all head sizes.",
+    "Built-in microphone allows for hands-free calling and voice commands.",
+    "Long-lasting battery life for all-day listening sessions.",
+    "High-quality sound drivers deliver immersive audio experiences."
+  ],
+  "price": 1500,
+  "color": "Black",
+  "features": [
+    "Bluetooth connectivity or wired option",
+    "Adjustable headband for a perfect fit",
+    "Built-in microphone for calls"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/51Y7SIK68KL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/519FoSzcpSL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/71p2mvqxIIL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/51Hj5YrgU9L._SS40_.jpg"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb14"
+  },
+  "name": "JBL Quantum 300",
+  "brand": "JBL",
+  "type": "Over-Ear",
+  "description": [
+    "Immerse yourself in your games with crystal clear audio and a comfortable design.",
+    "Surround sound capabilities for an immersive gaming experience.",
+    "Noise-canceling microphone for clear communication with teammates.",
+    "Adjustable headband and microphone boom for personalized fit and positioning.",
+    "Optional LED lighting effects to enhance your gaming setup."
+  ],
+  "price": 7000,
+  "color": "Black",
+  "features": [
+    "Surround sound capabilities",
+    "Noise-canceling microphone",
+    "Adjustable headband and microphone boom",
+    "LED lighting effects (optional)"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61X8As0NKQL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/31BPlG5p1gL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/316tx687wPL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/319ydEOKEML._SS40_.jpg"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb15"
+  },
+  "name": "Sony WC SweatZ XM4",
+  "brand": "Sony",
+  "type": "Over-Ear",
+  "description": [
+    "Open-back design for a wider soundstage and more natural listening experience.",
+    "Experience natural sound reproduction with high fidelity audio.",
+    "Enjoy spacious soundstage for immersive audio performance.",
+    "Equipped with comfortable ear cushions for extended listening sessions.",
+    "Features detachable cable for convenient storage and portability."
+  ],
+  "price": 4000,
+  "color": "White",
+  "features": [
+    "Natural sound reproduction",
+    "Open-back design for spacious soundstage",
+    "Comfortable ear cushions",
+    "Detachable cable"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/41IcGTDOpvL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/61cm-9ZjI0L._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41NuwP9LXJL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/41LyNfOfG0L._AC_US100_.jpg"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb16"
+  },
+  "name": "boAt Rockerz 255 Pro+",
+  "brand": "Boat",
+  "type": "In-Ear",
+  "description": [
+    "Designed for professional musicians and stage performers for accurate monitoring.",
+    "Offers clear and accurate sound reproduction, essential for critical listening.",
+    "Ensures a comfortable and secure fit, ideal for long hours of use during performances.",
+    "Equipped with a detachable cable featuring MMCX connectors for versatility and convenience.",
+    "Provides effective noise isolation, allowing users to focus on their performance without distractions."
+  ],
+  "price": 299,
+  "color": "Blue",
+  "features": [
+    "Clear and accurate sound reproduction",
+    "Comfortable and secure fit",
+    "Detachable cable with MMCX connectors",
+    "Noise isolation"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61shfvVhxjL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/51spjCx2N2L._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/51reFl4h-rL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/51am86IhfdL._SS40_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb17"
+  },
+  "name": "Zebronics Zeb Yoga N1",
+  "brand": "Zebronics",
+  "type": "In-Ear",
+  "description": [
+    "Convenient and stylish neckband design",
+    "Wireless Bluetooth connectivity for hassle-free pairing",
+    "Comfortable fit with ergonomic earbuds",
+    "Magnetic earbuds for secure storage when not in use",
+    "Built-in microphone for hands-free calls and voice assistant support"
+  ],
+  "price": 999,
+  "color": "Blue",
+  "features": [
+    "Wireless Bluetooth connectivity",
+    "Comfortable neckband design",
+    "Magnetic earbuds for easy storage",
+    "Built-in microphone for hands-free calls"
+  ],
+  "images": [
+    "https://www.zopic.in/wp-content/uploads/2022/08/Zebronics-Zeb-Yoga-N1-Neckband-zopic-7-blue-e1661200582714.webp",
+    "https://www.zopic.in/wp-content/uploads/2022/08/Zebronics-Zeb-Yoga-N1-Neckband-zopic-4.webp",
+    "https://www.zopic.in/wp-content/uploads/2022/08/Zebronics-Zeb-Yoga-N1-Neckband-zopic-3.webp?x67449",
+    "https://www.zopic.in/wp-content/uploads/2022/08/Zebronics-Zeb-Yoga-N1-Neckband-zopic-6.webp"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb18"
+  },
+  "name": "Marshall Monitor II",
+  "brand": "Marshall",
+  "type": "Over-Ear",
+  "description": [
+    "Premium wireless headphones",
+    "Active noise cancellation for immersive listening",
+    "Bluetooth connectivity for seamless pairing",
+    "Up to 30 hours of battery life for extended use",
+    "Custom-tuned drivers deliver rich, immersive sound",
+    "Comfortable over-ear design for long listening sessions"
+  ],
+  "price": 16000,
+  "color": "Black",
+  "features": [
+    "Active noise cancellation technology",
+    "Bluetooth connectivity",
+    "Up to 30 hours of battery life",
+    "Custom-tuned drivers for rich sound"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/71nzn2x5QgL._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/31gMo-o+nbL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/21HwYIUXJxL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/21TRO55cteL._SS40_.jpg"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb19"
+  },
+  "name": "pTron Studio",
+  "brand": "Ptron",
+  "type": "Over-Ear",
+  "description": [
+    "Wireless Bluetooth headphones with extended battery life",
+    "Comfortable design for long listening sessions",
+    "High-quality sound output for immersive experience",
+    "Foldable design for easy storage and portability",
+    "Built-in microphone for hands-free calls"
+  ],
+  "price": 1200,
+  "color": "Black",
+  "features": [
+    "Wireless Bluetooth connectivity",
+    "Foldable design for portability",
+    "Soft ear cushions for comfort",
+    "Built-in microphone for calls"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/513PuLtilUL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41Yo0TRhv+L._SX38_SY50_CR,0,0,38,50_.jpg",
+    "https://m.media-amazon.com/images/I/41rn2x6owrL._SX38_SY50_CR,0,0,38,50_.jpg",
+    "https://m.media-amazon.com/images/I/41rn2x6owrL._SX38_SY50_CR,0,0,38,50_.jpg"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1a"
+  },
+  "name": "JBL C100SI Wired",
+  "brand": "JBL",
+  "type": "In-Ear",
+  "description": [
+    "Sweatproof and durable headphones designed for active lifestyles.",
+    "Features a sweatproof and water-resistant design to withstand rigorous workouts.",
+    "Equipped with secure-fit ear hooks for stability during movement.",
+    "Includes an in-line remote for controlling music playback and managing calls.",
+    "Comes with a reflective cable for increased visibility during night runs."
+  ],
+  "price": 17000,
+  "color": "Black",
+  "features": [
+    "Sweatproof and water-resistant design",
+    "Secure-fit ear hooks for stability",
+    "In-line remote for music and calls",
+    "Reflective cable for visibility during night runs"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/51Q8DUDT2eL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61rILPESvyL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/61rILPESvyL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/61qJWUB2n5L._SS40_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1b"
+  },
+  "name": "Sony MDRV55",
+  "brand": "Sony",
+  "type": "On-Ear",
+  "description": [
+    "Professional-grade DJ headphones with swiveling ear cups and robust construction.",
+    "Designed for DJs, these headphones offer exceptional sound quality and durability.",
+    "The swiveling ear cups allow for single-ear monitoring, ideal for mixing and cueing.",
+    "High-power neodymium magnets deliver deep, powerful bass and crisp highs.",
+    "Constructed with durable materials to withstand rigorous use in demanding environments.",
+    "The coiled cable provides flexibility and durability, preventing tangling during use."
+  ],
+  "price": 11000,
+  "color": "Brown",
+  "features": [
+    "Swiveling ear cups for single-ear monitoring",
+    "High-power neodymium magnets for powerful bass",
+    "Durable construction for rigorous use",
+    "Coiled cable for flexibility and durability"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61GdwHvvMTL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41vZ2tXY1qL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/51RJLNyzgDL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/5197NHiS6ML._AC_US100_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1c"
+  },
+  "name": "HyperX Cloud V7485",
+  "brand": "Boat",
+  "type": "In-Ear",
+  "description": [
+    "Designed specifically for gaming enthusiasts",
+    "Immersive sound quality with enhanced bass",
+    "Clear and precise in-line microphone for effective communication",
+    "Comfortable ear tips provide prolonged gaming comfort",
+    "Tangle-free cable design ensures hassle-free gaming sessions"
+  ],
+  "price": 8000,
+  "color": "Brown",
+  "features": [
+    "In-line microphone for clear communication",
+    "Immersive sound with enhanced bass",
+    "Comfortable ear tips for extended gaming sessions",
+    "Tangle-free cable design"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/614IvoSviQL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41RdBARviHL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/31ze8-EE-qL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/61mzbAC4EPL._SX679_.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1d"
+  },
+  "name": "Minor III BC08",
+  "brand": "Marshall",
+  "type": "Over-Ear",
+  "description": [
+    "Luxurious over-ear headphones with premium materials and exceptional sound quality.",
+    "Crafted with premium leather ear cushions for ultimate comfort during long listening sessions.",
+    "Equipped with high-quality audio drivers that deliver detailed and immersive sound.",
+    "Constructed with solid metal components for durability and longevity.",
+    "Features a detachable cable with remote and mic for convenient control and hands-free calling."
+  ],
+  "price": 19000,
+  "color": "Brown",
+  "features": [
+    "Premium leather ear cushions",
+    "High-quality audio drivers for detailed sound",
+    "Solid metal construction for durability",
+    "Detachable cable with remote and mic"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/71g5W0rA-jL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41XCv8aQMoL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/51sicgsUkDL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/51ze7qPBfiL._AC_US100_.jpg"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1e"
+  },
+  "name": "PTron PlayBuds 1 Pro",
+  "brand": "Ptron",
+  "type": "In-Ear",
+  "description": [
+    "Wireless gaming earbuds with low-latency audio",
+    "Customizable sound profiles for immersive gaming experience",
+    "Intuitive touch controls for easy operation during gameplay",
+    "LED indicator provides convenient battery status updates",
+    "Ergonomic design ensures comfortable wearing for extended gaming sessions"
+  ],
+  "price": 6900,
+  "color": "Black",
+  "features": [
+    "Low-latency audio for gaming",
+    "Customizable sound profiles",
+    "Touch controls for easy operation",
+    "LED indicator for battery status"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/51qDXljNtlL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51QQbIuFehL._SX38_SY50_CR,0,0,38,50_.jpg",
+    "https://m.media-amazon.com/images/I/51qN8I-A9BL._SX38_SY50_CR,0,0,38,50_.jpg",
+    "https://m.media-amazon.com/images/I/51NgYRtHGVL._SX38_SY50_CR,0,0,38,50_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb1f"
+  },
+  "name": "JBL Tune 760NC",
+  "brand": "JBL",
+  "type": "Over-Ear",
+  "description": [
+    "Soft and comfortable headphones designed for sleep with wireless Bluetooth connectivity.",
+    "Ultra-thin and flat ear cups for comfortable sleep",
+    "Wireless Bluetooth connectivity",
+    "Long battery life for all-night use",
+    "Adjustable headband for a secure fit"
+  ],
+  "price": 1200,
+  "color": "Blue",
+  "features": [
+    "Ultra-thin and flat ear cups for comfortable sleep",
+    "Wireless Bluetooth connectivity",
+    "Long battery life for all-night use",
+    "Adjustable headband for a secure fit"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/71qaMjzEWsL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41xPOkP5cOL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/41QRkz49PHL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/51eD8ZPj-DL._SS40_.jpg"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb20"
+  },
+  "name": "Sony WF-C500 True Wireless",
+  "brand": "Sony",
+  "type": "In-Ear",
+  "description": [
+    "Stylish earphones with premium sound quality and a sleek design.",
+    "Experience immersive sound quality with deep bass and clear highs.",
+    "Sleek and lightweight design for comfortable all-day wear.",
+    "Convenient in-line remote for controlling music playback and taking calls.",
+    "Tangle-free flat cable for hassle-free use and storage."
+  ],
+  "price": 999,
+  "color": "White",
+  "features": [
+    "Premium sound quality with deep bass",
+    "Sleek and lightweight design",
+    "In-line remote for music and calls",
+    "Tangle-free flat cable"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61KNCVXTJiL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41rjqD3RfcL._AC_US40_.jpg",
+    "https://m.media-amazon.com/images/I/31Yi6cpcmtL._AC_US40_.jpg",
+    "https://m.media-amazon.com/images/I/41YHF8NceML._AC_US40_.jpg"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66068f3b308d7f3a307fcb21"
+  },
+  "name": "ZEBRONICS Zeb-Bang Pro",
+  "brand": "Zebronics",
+  "type": "On-Ear",
+  "description": [
+    "Compact and portable headphones with a sleek on-ear design.",
+    "Perfect for everyday use, whether commuting, working, or relaxing.",
+    "Features a lightweight and foldable design for easy storage and transportation.",
+    "Equipped with soft ear cushions that provide long-lasting comfort during extended listening sessions.",
+    "Offers a wired connection for universal compatibility with various devices.",
+    "Adjustable headband ensures a secure and custom fit for all users."
+  ],
+  "price": 15000,
+  "color": "Brown",
+  "features": [
+    "Lightweight and foldable design",
+    "Soft ear cushions for comfort",
+    "Wired connection for universal compatibility",
+    "Adjustable headband for a custom fit"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61-z1n7fYTL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61gd1YdU1aL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41j8jnW9hcL._SS40_.jpg",
+    "https://m.media-amazon.com/images/I/41j8jnW9hcL._SS40_.jpg"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "66068f95308d7f3a307fcb23"
+  },
+  "name": "Studio Pro Headphones",
+  "brand": "JBL",
+  "type": "Over-Ear",
+  "description": [
+    "Professional-grade headphones for audiophiles and musicians.",
+    "Engineered for high-fidelity sound reproduction.",
+    "Closed-back design ensures optimal isolation from external noise.",
+    "Features detachable cables for convenient storage and replacement.",
+    "Ergonomically designed ear cups provide superior comfort during long listening sessions.",
+    "Equipped with studio-quality monitoring for accurate audio reproduction."
+  ],
+  "color": "White",
+  "price": 2000,
+  "features": [
+    "High-fidelity sound",
+    "Closed-back design for isolation",
+    "Detachable cables",
+    "Comfortable ear cups",
+    "Studio-quality monitoring"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/31nvao7P-9L._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/41JdO21kRVL._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/414-7nwmr+L._AC_US100_.jpg",
+    "https://m.media-amazon.com/images/I/41PEZ+ivgBL._AC_US100_.jpg"
+  ],
+  "rating": 5
+}]
